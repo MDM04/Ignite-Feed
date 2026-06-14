@@ -15,10 +15,7 @@ export function App() {
             author="MDM Pro"
             content="Desenvolvedor Full Stack"
           />
-          <Post
-            author="Ellen Barbosa"
-            content="Farmaceutica"
-          />
+
         </main>
       </div>
     </>)
